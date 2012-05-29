@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.phonegap.getting.started"
+	version 	= "1.0.0">
+
+	<name>PhoneGap: Getting Started</name>
+
+	<description>
+		A template for getting started with PhoneGap development and build.phonegap.com
+	</description>
+
+
+	<feature name="http://api.phonegap.com/1.0/geolocation"/>
+   <feature name="http://api.phonegap.com/1.0/network"/>
+   <feature name="http://api.phonegap.com/1.0/geolocation"/>
+   <feature name="http://api.phonegap.com/1.0/file"/>
+   <feature name="http://api.phonegap.com/1.0/camera"/>
+   <feature name="http://api.phonegap.com/1.0/media"/>
+   <feature name="http://api.phonegap.com/1.0/device"/>
+   
+   <plugins name="BarcodeScanner" value="com.phonegap.plugins.barcodescanner.BarcodeScanner"/>
+
+	<preference name="orientation" value="portrait" />
+</widget>
