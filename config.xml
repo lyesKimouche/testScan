@@ -18,6 +18,7 @@
    <feature name="http://api.phonegap.com/1.0/camera"/>
    <feature name="http://api.phonegap.com/1.0/media"/>
    <feature name="http://api.phonegap.com/1.0/device"/>
+   <feature name="http://plugins.phonegap.com/ChildBrowser/2.0.1" />
 
 	<preference name="orientation" value="portrait" />
 </widget>
