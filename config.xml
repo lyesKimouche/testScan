@@ -18,8 +18,6 @@
    <feature name="http://api.phonegap.com/1.0/camera"/>
    <feature name="http://api.phonegap.com/1.0/media"/>
    <feature name="http://api.phonegap.com/1.0/device"/>
-   
-   <plugins name="BarcodeScanner" value="com.phonegap.plugins.barcodescanner.BarcodeScanner"/>
 
 	<preference name="orientation" value="portrait" />
 </widget>
